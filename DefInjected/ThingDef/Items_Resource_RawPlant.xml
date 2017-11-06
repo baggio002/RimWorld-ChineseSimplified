@@ -4,8 +4,8 @@
   <RawPotatoes.label>土豆</RawPotatoes.label>
   <RawPotatoes.description>生土豆。生吃味道很差。</RawPotatoes.description>
 
-  <RawFungus.label>raw fungus</RawFungus.label>
-  <RawFungus.description>Raw fungus.</RawFungus.description>
+  <RawFungus.label>菌菇</RawFungus.label>
+  <RawFungus.description>生菌菇。</RawFungus.description>
 
   <RawRice.label>稻米</RawRice.label>
   <RawRice.description>生稻米。生吃味道很差。</RawRice.description>
@@ -16,7 +16,7 @@
   <RawCorn.label>玉米</RawCorn.label>
   <RawCorn.description>生玉米。生吃味道很差。</RawCorn.description>
 
-  <RawBerries.label>草莓</RawBerries.label>
+  <RawBerries.label>莓果</RawBerries.label>
   <RawBerries.description>各种各样的浆果，就算生吃味道也很好。</RawBerries.description>
 
 
